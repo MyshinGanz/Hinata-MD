@@ -1,0 +1,78 @@
+/data/data/com.termux/files/home/Alphabot-Md/session.json                                                         2180/43163               5%
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "ILTWNIuCoOeMpWVEDU3sRMfRJMs4A120aKZQTigevXo="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "8BLLYYfB3He9/9yH8iijEYdBo4V/qM17PfD8/K0ff34="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "wPd8H1+BgJx8pUPxOyrVWA7BXRXAOdTxIWs/pFWnfX8="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "NStiWWGi6dL+/jMl8qM19OpGKX6mAfmU9w9zI9CtcwI="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "OPTjSNq3Hi0ITDgtL4Zgnm5ZfdQSpqmUzo0we51F2ns="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "8TthlG/ubH2/pikKdUqTxrLoDGZP4KzkCL2bsncU4HU="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "Eaf8NqDnhz/EyYpUF4UJ+5/J2+w8YcLDRukIXH4rJJix2h4N8sEOKoz1TOfMHKrz72YStOciIUHZXHko5hWcCQ=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 176,
+    "advSecretKey": "CPNkB2BvaPV2TSphkFzSQcOl6/t6HxNB/mgniBddaR0=",
+    "processedHistoryMessages": [
+      {
+        "key": {
+          "remoteJid": "6283866276094@s.whatsapp.net",
+          "fromMe": true,
+          "id": "95D1F145AD29377752C2CAF61E5237C6"
+        },
+        "messageTimestamp": 1661669581
+      },
+      {
+        "key": {
+          "remoteJid": "6283866276094@s.whatsapp.net",
+          "fromMe": true,
+          "id": "461C724D2DAC209CF0044B6F2BEE77DB"
+        },
+        "messageTimestamp": 1661669583
+      },
+      {
+        "key": {
+          "remoteJid": "6283866276094@s.whatsapp.net",
+          "fromMe": true,
+          "id": "7C95E4A58CEC55F493C7F4940D719F5A"
+        },
+        "messageTimestamp": 1661669598
+      }
+    ],
+    "nextPreKeyId": 61,
+    "firstUnuploadedPreKeyId": 61,
+    "accountSettings": {
+      "unarchiveChats": false
+    },
+    "account": {
+      "details": "CNOJi+0EEMShrJgGGAE=",
+      "accountSignatureKey": "ZfqqMBiPXryAhcvKWwR8kf3bMZ2dyKu9DWYq77/2sk0=",
+      "accountSignature": "tOkHG2HKKAzLuMLmnlRW/fQyArnmBdn9RYZPDX9p1GnHgtNcGh5XBcCPDq8QAsTOvIJuy91oikrNXiO3KgFzBw==",
+ 1Help         2UnW
